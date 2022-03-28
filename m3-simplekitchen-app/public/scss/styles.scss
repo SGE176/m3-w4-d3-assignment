@@ -1,14 +1,7 @@
 @import "colors.scss";
 @import "nav.scss";
-
-/* Variables */
-$fontFamily1: Arial, Helvetica, Sans-Serif;
-$fontFamily2: 'Sacramento', cursive;
-$fontSizeH1: 3em;
-$fontSizeH2: 2.5em;
-$fontSizeH3: 2em;
-$fontSizeSmall: 0.85em;
-
+@import "form.scss";
+@import "variable.scss";
 
 html {
   // Operations
